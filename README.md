@@ -95,5 +95,5 @@ The CNN model is designed to learn directly from raw IQ signals:
 ---
 
 ## 📄 Report
-![Report]()
+![Report](Model%20Design/AMC_Report.pdf)
 
