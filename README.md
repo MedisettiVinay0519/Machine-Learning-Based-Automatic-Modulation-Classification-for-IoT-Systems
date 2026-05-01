@@ -20,7 +20,8 @@ The overall pipeline includes:
 ---
 
 ## 🧠 Deep Learning Architecture
-![CNN Architecture](./images/cnn_architecture.png)
+![CNN Architecture](Model%20Design/AMC_MODEL-Arch1.jpeg)
+![CNN Architecture](Model%20Design/AMC_MODEL-Arch1.jpeg)
 
 The CNN model is designed to learn directly from raw IQ signals:
 - Convolution + BatchNorm + ReLU layers  
