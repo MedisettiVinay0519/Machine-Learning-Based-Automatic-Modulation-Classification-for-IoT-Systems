@@ -8,7 +8,7 @@ The system is trained on the **RadioML dataset** and evaluated under **noisy cha
 ---
 
 ## 🏗️ System Architecture
-![System Block Diagram](./images/block_diagram.png)
+![System Block Diagram](Model%20Design/AMC-SYSTEM-ARCH.png)
 
 The overall pipeline includes:
 - Signal generation / dataset input  
