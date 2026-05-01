@@ -52,15 +52,16 @@ The CNN model is designed to learn directly from raw IQ signals:
 
 ---
 
-## 🧪 Models & Performance
+## 🧪 Models & Performance Comparison
 
-### 🔹 Machine Learning
-- KNN → ~56% accuracy  
-- Random Forest → ~66% accuracy  
+| Approach           | Model            | Accuracy | Observation                          |
+|-------------------|------------------|----------|--------------------------------------|
+| ML                | KNN              | ~56%     | Sensitive to noise                   |
+| ML                | Random Forest    | ~66%     | Improved but still limited           |
+| DL                | CNN (10 epochs)  | ~85%     | Learns features effectively          |
+| DL                | CNN (30 epochs)  | ~98%     | High accuracy after tuning           |
 
-### 🔹 Deep Learning (CNN)
-- ~85% accuracy (10 epochs)  
-- **~98% accuracy (30 epochs)**  
+
 
 ---
 
